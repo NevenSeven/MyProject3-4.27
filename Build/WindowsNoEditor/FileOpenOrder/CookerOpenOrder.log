@@ -1,0 +1,1483 @@
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 0
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 1
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset" 2
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uexp" 3
+"D:/MyProject3 4.27/Content/AnimStarterPack/Jump_From_Stand.uasset" 4
+"D:/MyProject3 4.27/Content/AnimStarterPack/Jump_From_Stand.uexp" 5
+"D:/MyProject3 4.27/Content/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.uasset" 6
+"D:/MyProject3 4.27/Content/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.uexp" 7
+"D:/MyProject3 4.27/Content/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset" 8
+"D:/MyProject3 4.27/Content/AnimStarterPack/Crouch_Idle_Rifle_Hip.uexp" 9
+"D:/MyProject3 4.27/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uasset" 10
+"D:/MyProject3 4.27/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uexp" 11
+"D:/MyProject3 4.27/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.uasset" 12
+"D:/MyProject3 4.27/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.uexp" 13
+"D:/MyProject3 4.27/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uasset" 14
+"D:/MyProject3 4.27/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uexp" 15
+"D:/MyProject3 4.27/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uasset" 16
+"D:/MyProject3 4.27/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uexp" 17
+"D:/MyProject3 4.27/Content/ThirdPersonBP/Blueprints/LocomotionCrouch_BS.uasset" 18
+"D:/MyProject3 4.27/Content/ThirdPersonBP/Blueprints/LocomotionCrouch_BS.uexp" 19
+"D:/MyProject3 4.27/Content/AnimStarterPack/Idle_Rifle_Hip.uasset" 20
+"D:/MyProject3 4.27/Content/AnimStarterPack/Idle_Rifle_Hip.uexp" 21
+"D:/MyProject3 4.27/Content/AnimStarterPack/Jog_Rt_Rifle.uasset" 22
+"D:/MyProject3 4.27/Content/AnimStarterPack/Jog_Rt_Rifle.uexp" 23
+"D:/MyProject3 4.27/Content/AnimStarterPack/Jog_Lt_Rifle.uasset" 24
+"D:/MyProject3 4.27/Content/AnimStarterPack/Jog_Lt_Rifle.uexp" 25
+"D:/MyProject3 4.27/Content/AnimStarterPack/Jog_Bwd_Rifle.uasset" 26
+"D:/MyProject3 4.27/Content/AnimStarterPack/Jog_Bwd_Rifle.uexp" 27
+"D:/MyProject3 4.27/Content/AnimStarterPack/Jog_Fwd_Rifle.uasset" 28
+"D:/MyProject3 4.27/Content/AnimStarterPack/Jog_Fwd_Rifle.uexp" 29
+"D:/MyProject3 4.27/Content/AnimStarterPack/Walk_Rt_Rifle_Ironsights.uasset" 30
+"D:/MyProject3 4.27/Content/AnimStarterPack/Walk_Rt_Rifle_Ironsights.uexp" 31
+"D:/MyProject3 4.27/Content/AnimStarterPack/Walk_Lt_Rifle_Ironsights.uasset" 32
+"D:/MyProject3 4.27/Content/AnimStarterPack/Walk_Lt_Rifle_Ironsights.uexp" 33
+"D:/MyProject3 4.27/Content/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.uasset" 34
+"D:/MyProject3 4.27/Content/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.uexp" 35
+"D:/MyProject3 4.27/Content/AnimStarterPack/Sprint_Fwd_Rifle.uasset" 36
+"D:/MyProject3 4.27/Content/AnimStarterPack/Sprint_Fwd_Rifle.uexp" 37
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 38
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uexp" 39
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 40
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uexp" 41
+"D:/MyProject3 4.27/Content/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.uasset" 42
+"D:/MyProject3 4.27/Content/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.uexp" 43
+"D:/MyProject3 4.27/Content/ThirdPersonBP/Blueprints/Locomotion_BS.uasset" 44
+"D:/MyProject3 4.27/Content/ThirdPersonBP/Blueprints/Locomotion_BS.uexp" 45
+"D:/MyProject3 4.27/Content/ThirdPersonBP/Blueprints/PlayerCharacter_AB.uasset" 46
+"D:/MyProject3 4.27/Content/ThirdPersonBP/Blueprints/PlayerCharacter_AB.uexp" 47
+"../../../Engine/Content/Animation/DefaultRecorderBoneCompression.uasset" 48
+"../../../Engine/Content/Animation/DefaultRecorderBoneCompression.uexp" 49
+"D:/MyProject3 4.27/Content/AnimStarterPack/SlideAnimation.uasset" 50
+"D:/MyProject3 4.27/Content/AnimStarterPack/SlideAnimation.uexp" 51
+"D:/MyProject3 4.27/Content/AnimStarterPack/SlideAM.uasset" 52
+"D:/MyProject3 4.27/Content/AnimStarterPack/SlideAM.uexp" 53
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uasset" 54
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uexp" 55
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N.uasset" 56
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N.uexp" 57
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N.ubulk" 58
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.uasset" 59
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.uexp" 60
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.ubulk" 61
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.uasset" 62
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.uexp" 63
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.ubulk" 64
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals.uasset" 65
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals.uexp" 66
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals.ubulk" 67
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 68
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 69
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 70
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 71
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 72
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 73
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 74
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 75
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD.uasset" 76
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD.uexp" 77
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD.ubulk" 78
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 79
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uexp" 80
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 81
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 82
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 83
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 84
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 85
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 86
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 87
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 88
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 89
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 90
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 91
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uexp" 92
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 93
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uexp" 94
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 95
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uexp" 96
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_AO.uasset" 97
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_AO.uexp" 98
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body.uasset" 99
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body.uexp" 100
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.uasset" 101
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.uexp" 102
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.uasset" 103
+"D:/MyProject3 4.27/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.uexp" 104
+"D:/MyProject3 4.27/Content/ThirdPersonBP/Blueprints/BP_PlayerCharacter.uasset" 105
+"D:/MyProject3 4.27/Content/ThirdPersonBP/Blueprints/BP_PlayerCharacter.uexp" 106
+"D:/MyProject3 4.27/Content/Bp_GameMode.uasset" 107
+"D:/MyProject3 4.27/Content/Bp_GameMode.uexp" 108
+"D:/MyProject3 4.27/Content/Weapons_Kit_BuiltData.uasset" 109
+"D:/MyProject3 4.27/Content/Weapons_Kit_BuiltData.uexp" 110
+"D:/MyProject3 4.27/Content/Weapons_Kit_BuiltData.ubulk" 111
+"D:/MyProject3 4.27/Content/AnimStarterPack/Aim_Space_Hip.uasset" 112
+"D:/MyProject3 4.27/Content/AnimStarterPack/Aim_Space_Hip.uexp" 113
+"D:/MyProject3 4.27/Content/AnimStarterPack/Aim_Space_Ironsights.uasset" 114
+"D:/MyProject3 4.27/Content/AnimStarterPack/Aim_Space_Ironsights.uexp" 115
+"D:/MyProject3 4.27/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.uasset" 116
+"D:/MyProject3 4.27/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.uexp" 117
+"D:/MyProject3 4.27/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.uasset" 118
+"D:/MyProject3 4.27/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.uexp" 119
+"D:/MyProject3 4.27/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.uasset" 120
+"D:/MyProject3 4.27/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.uexp" 121
+"D:/MyProject3 4.27/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.uasset" 122
+"D:/MyProject3 4.27/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.uexp" 123
+"D:/MyProject3 4.27/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.uasset" 124
+"D:/MyProject3 4.27/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.uexp" 125
+"D:/MyProject3 4.27/Content/AnimStarterPack/Death_1.uasset" 126
+"D:/MyProject3 4.27/Content/AnimStarterPack/Death_1.uexp" 127
+"D:/MyProject3 4.27/Content/AnimStarterPack/Death_2.uasset" 128
+"D:/MyProject3 4.27/Content/AnimStarterPack/Death_2.uexp" 129
+"D:/MyProject3 4.27/Content/AnimStarterPack/Death_3.uasset" 130
+"D:/MyProject3 4.27/Content/AnimStarterPack/Death_3.uexp" 131
+"D:/MyProject3 4.27/Content/AnimStarterPack/Death_Ironsights_1.uasset" 132
+"D:/MyProject3 4.27/Content/AnimStarterPack/Death_Ironsights_1.uexp" 133
+"D:/MyProject3 4.27/Content/AnimStarterPack/Death_Ironsights_2.uasset" 134
+"D:/MyProject3 4.27/Content/AnimStarterPack/Death_Ironsights_2.uexp" 135
+"D:/MyProject3 4.27/Content/AnimStarterPack/Equip_Rifle_Standing.uasset" 136
+"D:/MyProject3 4.27/Content/AnimStarterPack/Equip_Rifle_Standing.uexp" 137
+"D:/MyProject3 4.27/Content/AnimStarterPack/Fire_Rifle_Hip.uasset" 138
+"D:/MyProject3 4.27/Content/AnimStarterPack/Fire_Rifle_Hip.uexp" 139
+"D:/MyProject3 4.27/Content/AnimStarterPack/Fire_Shotgun_Hip.uasset" 140
+"D:/MyProject3 4.27/Content/AnimStarterPack/Fire_Shotgun_Hip.uexp" 141
+"D:/MyProject3 4.27/Content/AnimStarterPack/Fire_Shotgun_Ironsights.uasset" 142
+"D:/MyProject3 4.27/Content/AnimStarterPack/Fire_Shotgun_Ironsights.uexp" 143
+"D:/MyProject3 4.27/Content/AnimStarterPack/Hit_React_4.uasset" 144
+"D:/MyProject3 4.27/Content/AnimStarterPack/Hit_React_4.uexp" 145
+"D:/MyProject3 4.27/Content/AnimStarterPack/Idle_Pistol.uasset" 146
+"D:/MyProject3 4.27/Content/AnimStarterPack/Idle_Pistol.uexp" 147
+"D:/MyProject3 4.27/Content/AnimStarterPack/Idle_Rifle_Ironsights.uasset" 148
+"D:/MyProject3 4.27/Content/AnimStarterPack/Idle_Rifle_Ironsights.uexp" 149
+"D:/MyProject3 4.27/Content/AnimStarterPack/Jump_From_Stand_Ironsights.uasset" 150
+"D:/MyProject3 4.27/Content/AnimStarterPack/Jump_From_Stand_Ironsights.uexp" 151
+"D:/MyProject3 4.27/Content/AnimStarterPack/Prone_Death_1.uasset" 152
+"D:/MyProject3 4.27/Content/AnimStarterPack/Prone_Death_1.uexp" 153
+"D:/MyProject3 4.27/Content/AnimStarterPack/Prone_Death_2.uasset" 154
+"D:/MyProject3 4.27/Content/AnimStarterPack/Prone_Death_2.uexp" 155
+"D:/MyProject3 4.27/Content/AnimStarterPack/Prone_Fire_1.uasset" 156
+"D:/MyProject3 4.27/Content/AnimStarterPack/Prone_Fire_1.uexp" 157
+"D:/MyProject3 4.27/Content/AnimStarterPack/Prone_Fire_2.uasset" 158
+"D:/MyProject3 4.27/Content/AnimStarterPack/Prone_Fire_2.uexp" 159
+"D:/MyProject3 4.27/Content/AnimStarterPack/Prone_Idle.uasset" 160
+"D:/MyProject3 4.27/Content/AnimStarterPack/Prone_Idle.uexp" 161
+"D:/MyProject3 4.27/Content/AnimStarterPack/Prone_Reload_Rifle.uasset" 162
+"D:/MyProject3 4.27/Content/AnimStarterPack/Prone_Reload_Rifle.uexp" 163
+"D:/MyProject3 4.27/Content/AnimStarterPack/Prone_Reload_Shotgun.uasset" 164
+"D:/MyProject3 4.27/Content/AnimStarterPack/Prone_Reload_Shotgun.uexp" 165
+"D:/MyProject3 4.27/Content/AnimStarterPack/Prone_To_Stand.uasset" 166
+"D:/MyProject3 4.27/Content/AnimStarterPack/Prone_To_Stand.uexp" 167
+"D:/MyProject3 4.27/Content/AnimStarterPack/Reload_Pistol.uasset" 168
+"D:/MyProject3 4.27/Content/AnimStarterPack/Reload_Pistol.uexp" 169
+"D:/MyProject3 4.27/Content/AnimStarterPack/Reload_Rifle_Ironsights.uasset" 170
+"D:/MyProject3 4.27/Content/AnimStarterPack/Reload_Rifle_Ironsights.uexp" 171
+"D:/MyProject3 4.27/Content/AnimStarterPack/Reload_Shotgun_Hip.uasset" 172
+"D:/MyProject3 4.27/Content/AnimStarterPack/Reload_Shotgun_Hip.uexp" 173
+"D:/MyProject3 4.27/Content/AnimStarterPack/Reload_Shotgun_Ironsights.uasset" 174
+"D:/MyProject3 4.27/Content/AnimStarterPack/Reload_Shotgun_Ironsights.uexp" 175
+"D:/MyProject3 4.27/Content/AnimStarterPack/Slide.uasset" 176
+"D:/MyProject3 4.27/Content/AnimStarterPack/Slide.uexp" 177
+"D:/MyProject3 4.27/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.uasset" 178
+"D:/MyProject3 4.27/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.uexp" 179
+"D:/MyProject3 4.27/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.uasset" 180
+"D:/MyProject3 4.27/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.uexp" 181
+"D:/MyProject3 4.27/Content/AnimStarterPack/Stand_To_Prone.uasset" 182
+"D:/MyProject3 4.27/Content/AnimStarterPack/Stand_To_Prone.uexp" 183
+"D:/MyProject3 4.27/Content/Geometry/Meshes/CubeMaterial.uasset" 184
+"D:/MyProject3 4.27/Content/Geometry/Meshes/CubeMaterial.uexp" 185
+"D:/MyProject3 4.27/Content/Geometry/Meshes/1M_Cube.uasset" 186
+"D:/MyProject3 4.27/Content/Geometry/Meshes/1M_Cube.uexp" 187
+"D:/MyProject3 4.27/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 188
+"D:/MyProject3 4.27/Content/Geometry/Meshes/1M_Cube_Chamfer.uexp" 189
+"D:/MyProject3 4.27/Content/Geometry/Meshes/TemplateFloor.uasset" 190
+"D:/MyProject3 4.27/Content/Geometry/Meshes/TemplateFloor.uexp" 191
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Basic_Wall.uasset" 192
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Basic_Wall.uexp" 193
+"D:/MyProject3 4.27/Content/StarterContent/Architecture/Pillar_50x500.uasset" 194
+"D:/MyProject3 4.27/Content/StarterContent/Architecture/Pillar_50x500.uexp" 195
+"D:/MyProject3 4.27/Content/StarterContent/Architecture/Wall_400x300.uasset" 196
+"D:/MyProject3 4.27/Content/StarterContent/Architecture/Wall_400x300.uexp" 197
+"D:/MyProject3 4.27/Content/StarterContent/Architecture/Wall_400x400.uasset" 198
+"D:/MyProject3 4.27/Content/StarterContent/Architecture/Wall_400x400.uexp" 199
+"D:/MyProject3 4.27/Content/StarterContent/Architecture/Wall_500x500.uasset" 200
+"D:/MyProject3 4.27/Content/StarterContent/Architecture/Wall_500x500.uexp" 201
+"D:/MyProject3 4.27/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 202
+"D:/MyProject3 4.27/Content/StarterContent/Architecture/Wall_Door_400x400.uexp" 203
+"D:/MyProject3 4.27/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 204
+"D:/MyProject3 4.27/Content/StarterContent/Architecture/Wall_Window_400x400.uexp" 205
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Collapse01.uasset" 206
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Collapse01.uexp" 207
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Collapse02.uasset" 208
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Collapse02.uexp" 209
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Explosion01.uasset" 210
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Explosion01.uexp" 211
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Explosion02.uasset" 212
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Explosion02.uexp" 213
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Fire01.uasset" 214
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Fire01.uexp" 215
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Fire_Sparks01.uasset" 216
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Fire_Sparks01.uexp" 217
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Light01.uasset" 218
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Light01.uexp" 219
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Light01_Cue.uasset" 220
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Light01_Cue.uexp" 221
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Light02.uasset" 222
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Light02.uexp" 223
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Light02_Cue.uasset" 224
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Light02_Cue.uexp" 225
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Smoke01.uasset" 226
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Smoke01.uexp" 227
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Starter_Birds01.uasset" 228
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Starter_Birds01.uexp" 229
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Starter_Music01.uasset" 230
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Starter_Music01.uexp" 231
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Starter_Wind05.uasset" 232
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Starter_Wind05.uexp" 233
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Starter_Wind06.uasset" 234
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Starter_Wind06.uexp" 235
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Steam01.uasset" 236
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Steam01.uexp" 237
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Explosion_Cue.uasset" 238
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Explosion_Cue.uexp" 239
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 240
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Smoke_Tiled_D.uexp" 241
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Smoke_Tiled_D.ubulk" 242
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 243
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Smoke_SubUV.uexp" 244
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Smoke_SubUV.ubulk" 245
+"D:/MyProject3 4.27/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 246
+"D:/MyProject3 4.27/Content/StarterContent/Particles/Materials/M_smoke_subUV.uexp" 247
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 248
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uexp" 249
+"D:/MyProject3 4.27/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 250
+"D:/MyProject3 4.27/Content/StarterContent/Particles/Materials/M_radial_ramp.uexp" 251
+"D:/MyProject3 4.27/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 252
+"D:/MyProject3 4.27/Content/StarterContent/Particles/Materials/m_flare_01.uexp" 253
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 254
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Explosion_SubUV.uexp" 255
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Explosion_SubUV.ubulk" 256
+"D:/MyProject3 4.27/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 257
+"D:/MyProject3 4.27/Content/StarterContent/Particles/Materials/M_explosion_subUV.uexp" 258
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Burst_M.uasset" 259
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Burst_M.uexp" 260
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Burst_M.ubulk" 261
+"D:/MyProject3 4.27/Content/StarterContent/Particles/Materials/M_Burst.uasset" 262
+"D:/MyProject3 4.27/Content/StarterContent/Particles/Materials/M_Burst.uexp" 263
+"D:/MyProject3 4.27/Content/StarterContent/Particles/P_Explosion.uasset" 264
+"D:/MyProject3 4.27/Content/StarterContent/Particles/P_Explosion.uexp" 265
+"D:/MyProject3 4.27/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 266
+"D:/MyProject3 4.27/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uexp" 267
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 268
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uexp" 269
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.ubulk" 270
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 271
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uexp" 272
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Bush_N.uasset" 273
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Bush_N.uexp" 274
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Bush_N.ubulk" 275
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Bush_D.uasset" 276
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Bush_D.uexp" 277
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Bush_D.ubulk" 278
+"D:/MyProject3 4.27/Content/StarterContent/Props/Materials/M_Bush.uasset" 279
+"D:/MyProject3 4.27/Content/StarterContent/Props/Materials/M_Bush.uexp" 280
+"D:/MyProject3 4.27/Content/StarterContent/Props/SM_Bush.uasset" 281
+"D:/MyProject3 4.27/Content/StarterContent/Props/SM_Bush.uexp" 282
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Chair_N.uasset" 283
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Chair_N.uexp" 284
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Chair_N.ubulk" 285
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Chair_M.uasset" 286
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Chair_M.uexp" 287
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Chair_M.ubulk" 288
+"D:/MyProject3 4.27/Content/StarterContent/Props/Materials/M_Chair.uasset" 289
+"D:/MyProject3 4.27/Content/StarterContent/Props/Materials/M_Chair.uexp" 290
+"D:/MyProject3 4.27/Content/StarterContent/Props/SM_Couch.uasset" 291
+"D:/MyProject3 4.27/Content/StarterContent/Props/SM_Couch.uexp" 292
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Door_N.uasset" 293
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Door_N.uexp" 294
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Door_N.ubulk" 295
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Door_M.uasset" 296
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Door_M.uexp" 297
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Door_M.ubulk" 298
+"D:/MyProject3 4.27/Content/StarterContent/Props/Materials/M_Door.uasset" 299
+"D:/MyProject3 4.27/Content/StarterContent/Props/Materials/M_Door.uexp" 300
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Glass.uasset" 301
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Glass.uexp" 302
+"D:/MyProject3 4.27/Content/StarterContent/Props/SM_Door.uasset" 303
+"D:/MyProject3 4.27/Content/StarterContent/Props/SM_Door.uexp" 304
+"D:/MyProject3 4.27/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 305
+"D:/MyProject3 4.27/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uexp" 306
+"D:/MyProject3 4.27/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 307
+"D:/MyProject3 4.27/Content/StarterContent/Props/Materials/M_MaterialSphere.uexp" 308
+"D:/MyProject3 4.27/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 309
+"D:/MyProject3 4.27/Content/StarterContent/Props/SM_MatPreviewMesh_02.uexp" 310
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_RockMesh_N.uasset" 311
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_RockMesh_N.uexp" 312
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_RockMesh_N.ubulk" 313
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_RockMesh_M.uasset" 314
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_RockMesh_M.uexp" 315
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_RockMesh_M.ubulk" 316
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 317
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Rock_Basalt_D.uexp" 318
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Rock_Basalt_D.ubulk" 319
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 320
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Detail_Rocky_N.uexp" 321
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Detail_Rocky_N.ubulk" 322
+"D:/MyProject3 4.27/Content/StarterContent/Props/Materials/M_Rock.uasset" 323
+"D:/MyProject3 4.27/Content/StarterContent/Props/Materials/M_Rock.uexp" 324
+"D:/MyProject3 4.27/Content/StarterContent/Props/SM_Rock.uasset" 325
+"D:/MyProject3 4.27/Content/StarterContent/Props/SM_Rock.uexp" 326
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Shelf_N.uasset" 327
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Shelf_N.uexp" 328
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Shelf_N.ubulk" 329
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Shelf_M.uasset" 330
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Shelf_M.uexp" 331
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Shelf_M.ubulk" 332
+"D:/MyProject3 4.27/Content/StarterContent/Props/Materials/M_Shelf.uasset" 333
+"D:/MyProject3 4.27/Content/StarterContent/Props/Materials/M_Shelf.uexp" 334
+"D:/MyProject3 4.27/Content/StarterContent/Props/SM_Shelf.uasset" 335
+"D:/MyProject3 4.27/Content/StarterContent/Props/SM_Shelf.uexp" 336
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Basic_Floor.uasset" 337
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Basic_Floor.uexp" 338
+"D:/MyProject3 4.27/Content/StarterContent/Props/SM_Stairs.uasset" 339
+"D:/MyProject3 4.27/Content/StarterContent/Props/SM_Stairs.uexp" 340
+"D:/MyProject3 4.27/Content/StarterContent/Shapes/Shape_Cone.uasset" 341
+"D:/MyProject3 4.27/Content/StarterContent/Shapes/Shape_Cone.uexp" 342
+"D:/MyProject3 4.27/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 343
+"D:/MyProject3 4.27/Content/StarterContent/Shapes/Shape_Cylinder.uexp" 344
+"D:/MyProject3 4.27/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 345
+"D:/MyProject3 4.27/Content/StarterContent/Shapes/Shape_NarrowCapsule.uexp" 346
+"D:/MyProject3 4.27/Content/StarterContent/Shapes/Shape_Pipe.uasset" 347
+"D:/MyProject3 4.27/Content/StarterContent/Shapes/Shape_Pipe.uexp" 348
+"D:/MyProject3 4.27/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 349
+"D:/MyProject3 4.27/Content/StarterContent/Shapes/Shape_Pipe_180.uexp" 350
+"D:/MyProject3 4.27/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 351
+"D:/MyProject3 4.27/Content/StarterContent/Shapes/Shape_Pipe_90.uexp" 352
+"D:/MyProject3 4.27/Content/StarterContent/Shapes/Shape_Plane.uasset" 353
+"D:/MyProject3 4.27/Content/StarterContent/Shapes/Shape_Plane.uexp" 354
+"D:/MyProject3 4.27/Content/StarterContent/Shapes/Shape_Torus.uasset" 355
+"D:/MyProject3 4.27/Content/StarterContent/Shapes/Shape_Torus.uexp" 356
+"D:/MyProject3 4.27/Content/StarterContent/Shapes/Shape_Trim.uasset" 357
+"D:/MyProject3 4.27/Content/StarterContent/Shapes/Shape_Trim.uexp" 358
+"D:/MyProject3 4.27/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 359
+"D:/MyProject3 4.27/Content/StarterContent/Shapes/Shape_Trim_90_In.uexp" 360
+"D:/MyProject3 4.27/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 361
+"D:/MyProject3 4.27/Content/StarterContent/Shapes/Shape_Trim_90_Out.uexp" 362
+"D:/MyProject3 4.27/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 363
+"D:/MyProject3 4.27/Content/StarterContent/Shapes/Shape_TriPyramid.uexp" 364
+"D:/MyProject3 4.27/Content/StarterContent/Shapes/Shape_Tube.uasset" 365
+"D:/MyProject3 4.27/Content/StarterContent/Shapes/Shape_Tube.uexp" 366
+"D:/MyProject3 4.27/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 367
+"D:/MyProject3 4.27/Content/StarterContent/Shapes/Shape_Wedge_A.uexp" 368
+"D:/MyProject3 4.27/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 369
+"D:/MyProject3 4.27/Content/StarterContent/Shapes/Shape_Wedge_B.uexp" 370
+"D:/MyProject3 4.27/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 371
+"D:/MyProject3 4.27/Content/StarterContent/Shapes/Shape_WideCapsule.uexp" 372
+"D:/MyProject3 4.27/Content/ThirdPerson/Meshes/RampMaterial.uasset" 373
+"D:/MyProject3 4.27/Content/ThirdPerson/Meshes/RampMaterial.uexp" 374
+"D:/MyProject3 4.27/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 375
+"D:/MyProject3 4.27/Content/ThirdPerson/Meshes/Bump_StaticMesh.uexp" 376
+"D:/MyProject3 4.27/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 377
+"D:/MyProject3 4.27/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uexp" 378
+"D:/MyProject3 4.27/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 379
+"D:/MyProject3 4.27/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uexp" 380
+"D:/MyProject3 4.27/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 381
+"D:/MyProject3 4.27/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uexp" 382
+"D:/MyProject3 4.27/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 383
+"D:/MyProject3 4.27/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uexp" 384
+"D:/MyProject3 4.27/Content/ThirdPersonBP/AI/PatrolPathBP.uasset" 385
+"D:/MyProject3 4.27/Content/ThirdPersonBP/AI/PatrolPathBP.uexp" 386
+"D:/MyProject3 4.27/Content/ThirdPersonBP/AI/BTT_FindRandomPatrol.uasset" 387
+"D:/MyProject3 4.27/Content/ThirdPersonBP/AI/BTT_FindRandomPatrol.uexp" 388
+"D:/MyProject3 4.27/Content/ThirdPersonBP/AI/BTT_ChasePlayer.uasset" 389
+"D:/MyProject3 4.27/Content/ThirdPersonBP/AI/BTT_ChasePlayer.uexp" 390
+"D:/MyProject3 4.27/Content/ThirdPersonBP/AI/BB_Enemy.uasset" 391
+"D:/MyProject3 4.27/Content/ThirdPersonBP/AI/BB_Enemy.uexp" 392
+"D:/MyProject3 4.27/Content/ThirdPersonBP/AI/BT_Enemy.uasset" 393
+"D:/MyProject3 4.27/Content/ThirdPersonBP/AI/BT_Enemy.uexp" 394
+"D:/MyProject3 4.27/Content/ThirdPersonBP/AI/Enemy_Controller.uasset" 395
+"D:/MyProject3 4.27/Content/ThirdPersonBP/AI/Enemy_Controller.uexp" 396
+"D:/MyProject3 4.27/Content/ThirdPersonBP/Blueprints/EnemyCharacter_AB.uasset" 397
+"D:/MyProject3 4.27/Content/ThirdPersonBP/Blueprints/EnemyCharacter_AB.uexp" 398
+"D:/MyProject3 4.27/Content/ThirdPersonBP/AI/Enemy_Character.uasset" 399
+"D:/MyProject3 4.27/Content/ThirdPersonBP/AI/Enemy_Character.uexp" 400
+"D:/MyProject3 4.27/Content/ThirdPersonBP/Blueprints/EnemyCharacter_AB1.uasset" 401
+"D:/MyProject3 4.27/Content/ThirdPersonBP/Blueprints/EnemyCharacter_AB1.uexp" 402
+"D:/MyProject3 4.27/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 403
+"D:/MyProject3 4.27/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uexp" 404
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 405
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp" 406
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 407
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp" 408
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk" 409
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 410
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp" 411
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk" 412
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 413
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uexp" 414
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 415
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uexp" 416
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 417
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp" 418
+"../../../Engine/Content/BasicShapes/Cone.uasset" 419
+"../../../Engine/Content/BasicShapes/Cone.uexp" 420
+"../../../Engine/Content/BasicShapes/Plane.uasset" 421
+"../../../Engine/Content/BasicShapes/Plane.uexp" 422
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 423
+"../../../Engine/Content/BasicShapes/Sphere.uexp" 424
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 425
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uexp" 426
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 427
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uexp" 428
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 429
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uexp" 430
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 431
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uexp" 432
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 433
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uexp" 434
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk" 435
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 436
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uexp" 437
+"../../../Engine/Content/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.uasset" 438
+"../../../Engine/Content/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.uexp" 439
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 440
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uexp" 441
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 442
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uexp" 443
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 444
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uexp" 445
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 446
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uexp" 447
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 448
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uexp" 449
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 450
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uexp" 451
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 452
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uexp" 453
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 454
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uexp" 455
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 456
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uexp" 457
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 458
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uexp" 459
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 460
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uexp" 461
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 462
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uexp" 463
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.ubulk" 464
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 465
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uexp" 466
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.ubulk" 467
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 468
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uexp" 469
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 470
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uexp" 471
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 472
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uexp" 473
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 474
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uexp" 475
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 476
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uexp" 477
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 478
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uexp" 479
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 480
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uexp" 481
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 482
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uexp" 483
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 484
+"../../../Engine/Content/EditorResources/BSPVertex.uexp" 485
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 486
+"../../../Engine/Content/EditorResources/EmptyActor.uexp" 487
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 488
+"../../../Engine/Content/EditorResources/S_Actor.uexp" 489
+"../../../Engine/Content/EditorResources/S_Actor.ubulk" 490
+"../../../Engine/Content/EditorResources/S_Note.uasset" 491
+"../../../Engine/Content/EditorResources/S_Note.uexp" 492
+"../../../Engine/Content/EditorResources/S_Note.ubulk" 493
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 494
+"../../../Engine/Content/EditorResources/S_Solver.uexp" 495
+"../../../Engine/Content/EditorResources/S_Solver.ubulk" 496
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 497
+"../../../Engine/Content/EditorResources/S_Terrain.uexp" 498
+"../../../Engine/Content/EditorResources/S_Terrain.ubulk" 499
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 500
+"../../../Engine/Content/EditorResources/S_Trigger.uexp" 501
+"../../../Engine/Content/EditorResources/S_Trigger.ubulk" 502
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 503
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uexp" 504
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.ubulk" 505
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 506
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uexp" 507
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.ubulk" 508
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 509
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uexp" 510
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 511
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uexp" 512
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 513
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uexp" 514
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 515
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp" 516
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 517
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uexp" 518
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 519
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uexp" 520
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 521
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uexp" 522
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 523
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uexp" 524
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 525
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp" 526
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 527
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uexp" 528
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 529
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp" 530
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 531
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uexp" 532
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 533
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uexp" 534
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 535
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 536
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 537
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 538
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 539
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 540
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 541
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 542
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 543
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 544
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 545
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 546
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 547
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 548
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 549
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 550
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 551
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 552
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 553
+"../../../Engine/Content/EngineFonts/Roboto.uexp" 554
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 555
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uexp" 556
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 557
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uexp" 558
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 559
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uexp" 560
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 561
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uexp" 562
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 563
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uexp" 564
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 565
+"../../../Engine/Content/EngineMaterials/BlueNoise.uexp" 566
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 567
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uexp" 568
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 569
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uexp" 570
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 571
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uexp" 572
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.ubulk" 573
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 574
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uexp" 575
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 576
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uexp" 577
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 578
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uexp" 579
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 580
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uexp" 581
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 582
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uexp" 583
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 584
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uexp" 585
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 586
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uexp" 587
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.ubulk" 588
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 589
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uexp" 590
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 591
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uexp" 592
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 593
+"../../../Engine/Content/EngineMaterials/MiniFont.uexp" 594
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 595
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uexp" 596
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.ubulk" 597
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 598
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uexp" 599
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 600
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uexp" 601
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 602
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uexp" 603
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset" 604
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uexp" 605
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uasset" 606
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uexp" 607
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset" 608
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uexp" 609
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uasset" 610
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uexp" 611
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 612
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uexp" 613
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 614
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uexp" 615
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 616
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uexp" 617
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 618
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uexp" 619
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 620
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uexp" 621
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 622
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uexp" 623
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 624
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uexp" 625
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 626
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uexp" 627
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 628
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uexp" 629
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 630
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uexp" 631
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 632
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uexp" 633
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 634
+"../../../Engine/Content/EngineMeshes/Cylinder.uexp" 635
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 636
+"../../../Engine/Content/EngineMeshes/Sphere.uexp" 637
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 638
+"../../../Engine/Content/EngineResources/DefaultTexture.uexp" 639
+"../../../Engine/Content/EngineResources/DefaultTexture.ubulk" 640
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 641
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uexp" 642
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 643
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uexp" 644
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 645
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uexp" 646
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 647
+"../../../Engine/Content/EngineResources/GradientTexture0.uexp" 648
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 649
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uexp" 650
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.ubulk" 651
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 652
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uexp" 653
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 654
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uexp" 655
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.ubulk" 656
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 657
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uexp" 658
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 659
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uexp" 660
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 661
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uexp" 662
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 663
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 664
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 665
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uexp" 666
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 667
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uexp" 668
+"../../../Engine/Content/EngineSounds/Master.uasset" 669
+"../../../Engine/Content/EngineSounds/Master.uexp" 670
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 671
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uexp" 672
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 673
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uexp" 674
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 675
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uexp" 676
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 677
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uexp" 678
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 679
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uexp" 680
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 681
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uexp" 682
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 683
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uexp" 684
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 685
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uexp" 686
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 687
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uexp" 688
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 689
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uexp" 690
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 691
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uexp" 692
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 693
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uexp" 694
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 695
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uexp" 696
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 697
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uexp" 698
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 699
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uexp" 700
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 701
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uexp" 702
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 703
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uexp" 704
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 705
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uexp" 706
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 707
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uexp" 708
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 709
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uexp" 710
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 711
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uexp" 712
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 713
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uexp" 714
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 715
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uexp" 716
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 717
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uexp" 718
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 719
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uexp" 720
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 721
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uexp" 722
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 723
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uexp" 724
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.ubulk" 725
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 726
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uexp" 727
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 728
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uexp" 729
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 730
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uexp" 731
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 732
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uexp" 733
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 734
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uexp" 735
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 736
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uexp" 737
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 738
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uexp" 739
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 740
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uexp" 741
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 742
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uexp" 743
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.ubulk" 744
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 745
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uexp" 746
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 747
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uexp" 748
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 749
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uexp" 750
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 751
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp" 752
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 753
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 754
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 755
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 756
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 757
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 758
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 759
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 760
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 761
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 762
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 763
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 764
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 765
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 766
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 767
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 768
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 769
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 770
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 771
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 772
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 773
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 774
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 775
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 776
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 777
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 778
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 779
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 780
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uexp" 781
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset" 782
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uexp" 783
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset" 784
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uexp" 785
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 786
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uexp" 787
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 788
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uexp" 789
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 790
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uexp" 791
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 792
+"../../../Engine/Content/BasicShapes/Cylinder.uexp" 793
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 794
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uexp" 795
+"../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 796
+"../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uexp" 797
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uasset" 798
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uexp" 799
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.ubulk" 800
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.uasset" 801
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.uexp" 802
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.ubulk" 803
+"../../../Engine/Content/EngineResources/Black.uasset" 804
+"../../../Engine/Content/EngineResources/Black.uexp" 805
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/M_XRController.uasset" 806
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/M_XRController.uexp" 807
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MI_GoogleDaydream.uasset" 808
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MI_GoogleDaydream.uexp" 809
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/GoogleDaydreamController.uasset" 810
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/GoogleDaydreamController.uexp" 811
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/BaseTexture.uasset" 812
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/BaseTexture.uexp" 813
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/BaseTexture.ubulk" 814
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/MI_HTCVive.uasset" 815
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/MI_HTCVive.uexp" 816
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/HTCViveController.uasset" 817
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/HTCViveController.uexp" 818
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/NormalTexture.uasset" 819
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/NormalTexture.uexp" 820
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/NormalTexture.ubulk" 821
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MRTexture.uasset" 822
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MRTexture.uexp" 823
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MRTexture.ubulk" 824
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/EmissiveTexture.uasset" 825
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/EmissiveTexture.uexp" 826
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/EmissiveTexture.ubulk" 827
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/BaseTexture.uasset" 828
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/BaseTexture.uexp" 829
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/BaseTexture.ubulk" 830
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality.uasset" 831
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality.uexp" 832
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Left/left_MicrosoftMixedRealityController.uasset" 833
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Left/left_MicrosoftMixedRealityController.uexp" 834
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Right/right_MicrosoftMixedRealityController.uasset" 835
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Right/right_MicrosoftMixedRealityController.uexp" 836
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/BaseTexture.uasset" 837
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/BaseTexture.uexp" 838
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/BaseTexture.ubulk" 839
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/MI_OculusGo.uasset" 840
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/MI_OculusGo.uexp" 841
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/OculusGoController.uasset" 842
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/OculusGoController.uexp" 843
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MRTexture.uasset" 844
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MRTexture.uexp" 845
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MRTexture.ubulk" 846
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/BaseTexture.uasset" 847
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/BaseTexture.uexp" 848
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/BaseTexture.ubulk" 849
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MI_OculusTouch.uasset" 850
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MI_OculusTouch.uexp" 851
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Left/left_OculusTouchController.uasset" 852
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Left/left_OculusTouchController.uexp" 853
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Right/right_OculusTouchController.uasset" 854
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Right/right_OculusTouchController.uexp" 855
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.uasset" 856
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.uexp" 857
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.ubulk" 858
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.uasset" 859
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.uexp" 860
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.ubulk" 861
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MI_OculusTouch_v2.uasset" 862
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MI_OculusTouch_v2.uexp" 863
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Left/left_OculusTouch_v2Controller.uasset" 864
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Left/left_OculusTouch_v2Controller.uexp" 865
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Right/right_OculusTouch_v2Controller.uasset" 866
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Right/right_OculusTouch_v2Controller.uexp" 867
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MRTexture.uasset" 868
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MRTexture.uexp" 869
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MRTexture.ubulk" 870
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/BaseTexture.uasset" 871
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/BaseTexture.uexp" 872
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/BaseTexture.ubulk" 873
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MI_OculusTouch_v3.uasset" 874
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MI_OculusTouch_v3.uexp" 875
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Left/left_OculusTouch_v3Controller.uasset" 876
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Left/left_OculusTouch_v3Controller.uexp" 877
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Right/right_OculusTouch_v3Controller.uasset" 878
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Right/right_OculusTouch_v3Controller.uexp" 879
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/MRTexture.uasset" 880
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/MRTexture.uexp" 881
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/MRTexture.ubulk" 882
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/BaseTexture.uasset" 883
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/BaseTexture.uexp" 884
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/BaseTexture.ubulk" 885
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/MI_left_ValveIndex.uasset" 886
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/MI_left_ValveIndex.uexp" 887
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/left_ValveIndexController.uasset" 888
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/left_ValveIndexController.uexp" 889
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/MI_right_ValveIndex.uasset" 890
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/MI_right_ValveIndex.uexp" 891
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/right_ValveIndexController.uasset" 892
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/right_ValveIndexController.uexp" 893
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 894
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uexp" 895
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 896
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp" 897
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 898
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uexp" 899
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 900
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uexp" 901
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 902
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uexp" 903
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 904
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uexp" 905
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.ubulk" 906
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 907
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uexp" 908
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.ubulk" 909
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 910
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uexp" 911
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 912
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uexp" 913
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.uasset" 914
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.uexp" 915
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.ubulk" 916
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/TouchForQuestRiftSControllerMaterial.uasset" 917
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/TouchForQuestRiftSControllerMaterial.uexp" 918
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchForQuestRiftSController.uasset" 919
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchForQuestRiftSController.uexp" 920
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 921
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uexp" 922
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 923
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uexp" 924
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uasset" 925
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uexp" 926
+"D:/MyProject3 4.27/Content/AnimStarterPack/Idle_Rifle_Hip_Break1.uasset" 927
+"D:/MyProject3 4.27/Content/AnimStarterPack/Idle_Rifle_Hip_Break1.uexp" 928
+"D:/MyProject3 4.27/Content/AnimStarterPack/Idle_Rifle_Hip_Break2.uasset" 929
+"D:/MyProject3 4.27/Content/AnimStarterPack/Idle_Rifle_Hip_Break2.uexp" 930
+"D:/MyProject3 4.27/Content/AnimStarterPack/Reload_Rifle_Hip.uasset" 931
+"D:/MyProject3 4.27/Content/AnimStarterPack/Reload_Rifle_Hip.uexp" 932
+"D:/MyProject3 4.27/Content/AnimStarterPack/Hit_React_3.uasset" 933
+"D:/MyProject3 4.27/Content/AnimStarterPack/Hit_React_3.uexp" 934
+"D:/MyProject3 4.27/Content/AnimStarterPack/Hit_React_2.uasset" 935
+"D:/MyProject3 4.27/Content/AnimStarterPack/Hit_React_2.uexp" 936
+"D:/MyProject3 4.27/Content/AnimStarterPack/Hit_React_1.uasset" 937
+"D:/MyProject3 4.27/Content/AnimStarterPack/Hit_React_1.uexp" 938
+"D:/MyProject3 4.27/Content/AnimStarterPack/Fire_Rifle_Ironsights.uasset" 939
+"D:/MyProject3 4.27/Content/AnimStarterPack/Fire_Rifle_Ironsights.uexp" 940
+"D:/MyProject3 4.27/Content/AnimStarterPack/Equip_Pistol_Standing.uasset" 941
+"D:/MyProject3 4.27/Content/AnimStarterPack/Equip_Pistol_Standing.uexp" 942
+"D:/MyProject3 4.27/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.uasset" 943
+"D:/MyProject3 4.27/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.uexp" 944
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 945
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 946
+"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 947
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 948
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 949
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 950
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 951
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 952
+"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 953
+"../../../Engine/Content/TemplateResources/M_Template_Master.uasset" 954
+"../../../Engine/Content/TemplateResources/M_Template_Master.uexp" 955
+"../../../Engine/Content/TemplateResources/MI_Template_BaseGray_03_Metal.uasset" 956
+"../../../Engine/Content/TemplateResources/MI_Template_BaseGray_03_Metal.uexp" 957
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 958
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 959
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 960
+"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 961
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 962
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 963
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 964
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 965
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 966
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 967
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 968
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 969
+"D:/MyProject3 4.27/Content/AnimStarterPack/Showcase.uexp" 970
+"D:/MyProject3 4.27/Content/AnimStarterPack/Showcase.ubulk" 971
+"D:/MyProject3 4.27/Content/AnimStarterPack/Showcase.umap" 972
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_AssetPlatform.uasset" 973
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_AssetPlatform.uexp" 974
+"D:/MyProject3 4.27/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 975
+"D:/MyProject3 4.27/Content/StarterContent/Architecture/SM_AssetPlatform.uexp" 976
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 977
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uexp" 978
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 979
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uexp" 980
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.ubulk" 981
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 982
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uexp" 983
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 984
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uexp" 985
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 986
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uexp" 987
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 988
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uexp" 989
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 990
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uexp" 991
+"D:/MyProject3 4.27/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 992
+"D:/MyProject3 4.27/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uexp" 993
+"D:/MyProject3 4.27/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.ubulk" 994
+"D:/MyProject3 4.27/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 995
+"D:/MyProject3 4.27/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uexp" 996
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 997
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uexp" 998
+"D:/MyProject3 4.27/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 999
+"D:/MyProject3 4.27/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uexp" 1000
+"D:/MyProject3 4.27/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 1001
+"D:/MyProject3 4.27/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uexp" 1002
+"D:/MyProject3 4.27/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 1003
+"D:/MyProject3 4.27/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uexp" 1004
+"D:/MyProject3 4.27/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 1005
+"D:/MyProject3 4.27/Content/StarterContent/Blueprints/Assets/SM_Arrows.uexp" 1006
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 1007
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uexp" 1008
+"D:/MyProject3 4.27/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 1009
+"D:/MyProject3 4.27/Content/StarterContent/Blueprints/Assets/Skybox.uexp" 1010
+"D:/MyProject3 4.27/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 1011
+"D:/MyProject3 4.27/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uexp" 1012
+"D:/MyProject3 4.27/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 1013
+"D:/MyProject3 4.27/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uexp" 1014
+"D:/MyProject3 4.27/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 1015
+"D:/MyProject3 4.27/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uexp" 1016
+"D:/MyProject3 4.27/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 1017
+"D:/MyProject3 4.27/Content/StarterContent/Blueprints/BP_LightStudio.uexp" 1018
+"D:/MyProject3 4.27/Content/StarterContent/Maps/Advanced_Lighting.uexp" 1019
+"D:/MyProject3 4.27/Content/StarterContent/Maps/Advanced_Lighting.umap" 1020
+"D:/MyProject3 4.27/Content/StarterContent/Architecture/Floor_400x400.uasset" 1021
+"D:/MyProject3 4.27/Content/StarterContent/Architecture/Floor_400x400.uexp" 1022
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_TableRound_N.uasset" 1023
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_TableRound_N.uexp" 1024
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_TableRound_N.ubulk" 1025
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_TableRound_M.uasset" 1026
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_TableRound_M.uexp" 1027
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_TableRound_M.ubulk" 1028
+"D:/MyProject3 4.27/Content/StarterContent/Props/Materials/M_TableRound.uasset" 1029
+"D:/MyProject3 4.27/Content/StarterContent/Props/Materials/M_TableRound.uexp" 1030
+"D:/MyProject3 4.27/Content/StarterContent/Props/SM_TableRound.uasset" 1031
+"D:/MyProject3 4.27/Content/StarterContent/Props/SM_TableRound.uexp" 1032
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Statue_N.uasset" 1033
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Statue_N.uexp" 1034
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Statue_N.ubulk" 1035
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Statue_M.uasset" 1036
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Statue_M.uexp" 1037
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Statue_M.ubulk" 1038
+"D:/MyProject3 4.27/Content/StarterContent/Props/Materials/M_Statue.uasset" 1039
+"D:/MyProject3 4.27/Content/StarterContent/Props/Materials/M_Statue.uexp" 1040
+"D:/MyProject3 4.27/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 1041
+"D:/MyProject3 4.27/Content/StarterContent/Props/Materials/M_StatueGlass.uexp" 1042
+"D:/MyProject3 4.27/Content/StarterContent/Props/SM_Statue.uasset" 1043
+"D:/MyProject3 4.27/Content/StarterContent/Props/SM_Statue.uexp" 1044
+"D:/MyProject3 4.27/Content/StarterContent/Props/SM_Chair.uasset" 1045
+"D:/MyProject3 4.27/Content/StarterContent/Props/SM_Chair.uexp" 1046
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 1047
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Metal_Copper_D.uexp" 1048
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Metal_Copper_D.ubulk" 1049
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 1050
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Metal_Gold_N.uexp" 1051
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Metal_Gold_N.ubulk" 1052
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_MacroVariation.uasset" 1053
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_MacroVariation.uexp" 1054
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Metal_Copper.uasset" 1055
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Metal_Copper.uexp" 1056
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 1057
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Metal_Aluminum_D.uexp" 1058
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Metal_Aluminum_D.ubulk" 1059
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 1060
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uexp" 1061
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 1062
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uexp" 1063
+"D:/MyProject3 4.27/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 1064
+"D:/MyProject3 4.27/Content/StarterContent/Maps/Minimal_Default_BuiltData.uexp" 1065
+"D:/MyProject3 4.27/Content/StarterContent/Maps/Minimal_Default_BuiltData.ubulk" 1066
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 1067
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Starter_Background_Cue.uexp" 1068
+"D:/MyProject3 4.27/Content/StarterContent/Maps/Minimal_Default.uexp" 1069
+"D:/MyProject3 4.27/Content/StarterContent/Maps/Minimal_Default.umap" 1070
+"D:/MyProject3 4.27/Content/StarterContent/Shapes/Shape_Sphere.uasset" 1071
+"D:/MyProject3 4.27/Content/StarterContent/Shapes/Shape_Sphere.uexp" 1072
+"D:/MyProject3 4.27/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 1073
+"D:/MyProject3 4.27/Content/StarterContent/Shapes/Shape_QuadPyramid.uexp" 1074
+"D:/MyProject3 4.27/Content/StarterContent/Shapes/Shape_Cube.uasset" 1075
+"D:/MyProject3 4.27/Content/StarterContent/Shapes/Shape_Cube.uexp" 1076
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Frame_N.uasset" 1077
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Frame_N.uexp" 1078
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Frame_N.ubulk" 1079
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Frame_M.uasset" 1080
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Frame_M.uexp" 1081
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Frame_M.ubulk" 1082
+"D:/MyProject3 4.27/Content/StarterContent/Props/Materials/M_Frame.uasset" 1083
+"D:/MyProject3 4.27/Content/StarterContent/Props/Materials/M_Frame.uexp" 1084
+"D:/MyProject3 4.27/Content/StarterContent/Props/SM_WindowFrame.uasset" 1085
+"D:/MyProject3 4.27/Content/StarterContent/Props/SM_WindowFrame.uexp" 1086
+"D:/MyProject3 4.27/Content/StarterContent/Props/SM_PillarFrame300.uasset" 1087
+"D:/MyProject3 4.27/Content/StarterContent/Props/SM_PillarFrame300.uexp" 1088
+"D:/MyProject3 4.27/Content/StarterContent/Props/SM_PillarFrame.uasset" 1089
+"D:/MyProject3 4.27/Content/StarterContent/Props/SM_PillarFrame.uexp" 1090
+"D:/MyProject3 4.27/Content/StarterContent/Props/SM_GlassWindow.uasset" 1091
+"D:/MyProject3 4.27/Content/StarterContent/Props/SM_GlassWindow.uexp" 1092
+"D:/MyProject3 4.27/Content/StarterContent/Props/SM_DoorFrame.uasset" 1093
+"D:/MyProject3 4.27/Content/StarterContent/Props/SM_DoorFrame.uexp" 1094
+"D:/MyProject3 4.27/Content/StarterContent/Props/SM_CornerFrame.uasset" 1095
+"D:/MyProject3 4.27/Content/StarterContent/Props/SM_CornerFrame.uexp" 1096
+"D:/MyProject3 4.27/Content/StarterContent/Props/MaterialSphere.uasset" 1097
+"D:/MyProject3 4.27/Content/StarterContent/Props/MaterialSphere.uexp" 1098
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 1099
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Dust_Particle_D.uexp" 1100
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Dust_Particle_D.ubulk" 1101
+"D:/MyProject3 4.27/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 1102
+"D:/MyProject3 4.27/Content/StarterContent/Particles/Materials/M_Dust_Particle.uexp" 1103
+"D:/MyProject3 4.27/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 1104
+"D:/MyProject3 4.27/Content/StarterContent/Particles/P_Ambient_Dust.uexp" 1105
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 1106
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Wood_Walnut_N.uexp" 1107
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Wood_Walnut_N.ubulk" 1108
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 1109
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Wood_Walnut_D.uexp" 1110
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Wood_Walnut_D.ubulk" 1111
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 1112
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Wood_Walnut.uexp" 1113
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 1114
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Wood_Pine_N.uexp" 1115
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Wood_Pine_N.ubulk" 1116
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 1117
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Wood_Pine_D.uexp" 1118
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Wood_Pine_D.ubulk" 1119
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 1120
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Perlin_Noise_M.uexp" 1121
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Perlin_Noise_M.ubulk" 1122
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Wood_Pine.uasset" 1123
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Wood_Pine.uexp" 1124
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 1125
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Wood_Oak_N.uexp" 1126
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Wood_Oak_N.ubulk" 1127
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 1128
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Wood_Oak_D.uexp" 1129
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Wood_Oak_D.ubulk" 1130
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Wood_Oak.uasset" 1131
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Wood_Oak.uexp" 1132
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 1133
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uexp" 1134
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 1135
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uexp" 1136
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.ubulk" 1137
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 1138
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uexp" 1139
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.ubulk" 1140
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 1141
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uexp" 1142
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.ubulk" 1143
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 1144
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uexp" 1145
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 1146
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uexp" 1147
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Water_M.uasset" 1148
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Water_M.uexp" 1149
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Water_M.ubulk" 1150
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Water_N.uasset" 1151
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Water_N.uexp" 1152
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Water_N.ubulk" 1153
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Water_Ocean.uasset" 1154
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Water_Ocean.uexp" 1155
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Water_Lake.uasset" 1156
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Water_Lake.uexp" 1157
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Collapse_Cue.uasset" 1158
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Collapse_Cue.uexp" 1159
+"D:/MyProject3 4.27/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 1160
+"D:/MyProject3 4.27/Content/StarterContent/Architecture/Wall_Window_400x300.uexp" 1161
+"D:/MyProject3 4.27/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 1162
+"D:/MyProject3 4.27/Content/StarterContent/Architecture/Wall_Door_400x300.uexp" 1163
+"D:/MyProject3 4.27/Content/StarterContent/Architecture/Wall_400x200.uasset" 1164
+"D:/MyProject3 4.27/Content/StarterContent/Architecture/Wall_400x200.uexp" 1165
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 1166
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Tech_Panel_N.uexp" 1167
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Tech_Panel_N.ubulk" 1168
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 1169
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Tech_Panel_M.uexp" 1170
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Tech_Panel_M.ubulk" 1171
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 1172
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Metal_Steel_D.uexp" 1173
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Metal_Steel_D.ubulk" 1174
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Tech_Panel.uasset" 1175
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Tech_Panel.uexp" 1176
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 1177
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uexp" 1178
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.ubulk" 1179
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 1180
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uexp" 1181
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.ubulk" 1182
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 1183
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uexp" 1184
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 1185
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Tech_Hex_Tile.uexp" 1186
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 1187
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Tech_Dot_N.uexp" 1188
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Tech_Dot_N.ubulk" 1189
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 1190
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Tech_Dot_M.uexp" 1191
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Tech_Dot_M.ubulk" 1192
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 1193
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Single_Tile_N.uexp" 1194
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Single_Tile_N.ubulk" 1195
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 1196
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Checker_Noise_M.uexp" 1197
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Checker_Noise_M.ubulk" 1198
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 1199
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Tech_Checker_Dot.uexp" 1200
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 1201
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Rock_Slate_N.uexp" 1202
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Rock_Slate_N.ubulk" 1203
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 1204
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Rock_Slate_D.uexp" 1205
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Rock_Slate_D.ubulk" 1206
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Rock_Slate.uasset" 1207
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Rock_Slate.uexp" 1208
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 1209
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Rock_Sandstone_N.uexp" 1210
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Rock_Sandstone_N.ubulk" 1211
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 1212
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Rock_Sandstone_D.uexp" 1213
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Rock_Sandstone_D.ubulk" 1214
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 1215
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Rock_Sandstone.uexp" 1216
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 1217
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uexp" 1218
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.ubulk" 1219
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 1220
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Rock_Marble_Polished.uexp" 1221
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 1222
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Rock_Basalt_N.uexp" 1223
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Rock_Basalt_N.ubulk" 1224
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 1225
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Rock_Basalt.uexp" 1226
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 1227
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Metal_Steel_N.uexp" 1228
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Metal_Steel_N.ubulk" 1229
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Metal_Steel.uasset" 1230
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Metal_Steel.uexp" 1231
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 1232
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Metal_Rust_D.uexp" 1233
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Metal_Rust_D.ubulk" 1234
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 1235
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Metal_Rust_N.uexp" 1236
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Metal_Rust_N.ubulk" 1237
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Metal_Rust.uasset" 1238
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Metal_Rust.uexp" 1239
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 1240
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Metal_Gold_D.uexp" 1241
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Metal_Gold_D.ubulk" 1242
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Metal_Gold.uasset" 1243
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Metal_Gold.uexp" 1244
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 1245
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Metal_Chrome.uexp" 1246
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 1247
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Ground_Moss_N.uexp" 1248
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Ground_Moss_N.ubulk" 1249
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 1250
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_ground_Moss_D.uexp" 1251
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_ground_Moss_D.ubulk" 1252
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Ground_Moss.uasset" 1253
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Ground_Moss.uexp" 1254
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 1255
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Ground_Gravel_N.uexp" 1256
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Ground_Gravel_N.ubulk" 1257
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 1258
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Ground_Gravel_D.uexp" 1259
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Ground_Gravel_D.ubulk" 1260
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 1261
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Ground_Gravel.uexp" 1262
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 1263
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Ground_Grass_N.uexp" 1264
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Ground_Grass_N.ubulk" 1265
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 1266
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Ground_Grass_D.uexp" 1267
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Ground_Grass_D.ubulk" 1268
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Ground_Grass.uasset" 1269
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Ground_Grass.uexp" 1270
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 1271
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uexp" 1272
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.ubulk" 1273
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 1274
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Concrete_Tiles_N.uexp" 1275
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Concrete_Tiles_N.ubulk" 1276
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 1277
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Concrete_Tiles_M.uexp" 1278
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Concrete_Tiles_M.ubulk" 1279
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 1280
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Concrete_Tiles_D.uexp" 1281
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Concrete_Tiles_D.ubulk" 1282
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 1283
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Concrete_Tiles.uexp" 1284
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 1285
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Concrete_Panels_N.uexp" 1286
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Concrete_Panels_N.ubulk" 1287
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 1288
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Concrete_Panels_D.uexp" 1289
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Concrete_Panels_D.ubulk" 1290
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 1291
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Concrete_Panels.uexp" 1292
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 1293
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Concrete_Grime_D.uexp" 1294
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Concrete_Grime_D.ubulk" 1295
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 1296
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Concrete_Grime.uexp" 1297
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 1298
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uexp" 1299
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.ubulk" 1300
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 1301
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uexp" 1302
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.ubulk" 1303
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 1304
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uexp" 1305
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.ubulk" 1306
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 1307
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uexp" 1308
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.ubulk" 1309
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Gradinet_01.uasset" 1310
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Gradinet_01.uexp" 1311
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Gradinet_01.ubulk" 1312
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 1313
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_CobbleStone_Smooth.uexp" 1314
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 1315
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uexp" 1316
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_CobbleStone_Rough_N.ubulk" 1317
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 1318
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uexp" 1319
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_CobbleStone_Rough_D.ubulk" 1320
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 1321
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_CobbleStone_Rough.uexp" 1322
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 1323
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uexp" 1324
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.ubulk" 1325
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 1326
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uexp" 1327
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.ubulk" 1328
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 1329
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uexp" 1330
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.ubulk" 1331
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 1332
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_CobbleStone_Pebble.uexp" 1333
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 1334
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Ceramic_Tile_N.uexp" 1335
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Ceramic_Tile_N.ubulk" 1336
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 1337
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Ceramic_Tile_M.uexp" 1338
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Ceramic_Tile_M.ubulk" 1339
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 1340
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uexp" 1341
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 1342
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uexp" 1343
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.ubulk" 1344
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 1345
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uexp" 1346
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.ubulk" 1347
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 1348
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uexp" 1349
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.ubulk" 1350
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 1351
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uexp" 1352
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 1353
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uexp" 1354
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.ubulk" 1355
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 1356
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uexp" 1357
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.ubulk" 1358
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 1359
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Brick_Cut_Stone.uexp" 1360
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 1361
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uexp" 1362
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Brick_Clay_Old_N.ubulk" 1363
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 1364
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uexp" 1365
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Brick_Clay_Old_D.ubulk" 1366
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 1367
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Brick_Clay_Old.uexp" 1368
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 1369
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Brick_Clay_New_N.uexp" 1370
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 1371
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Brick_Clay_New_M.uexp" 1372
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 1373
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Brick_Clay_New_D.uexp" 1374
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Brick_Clay_New_D.ubulk" 1375
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 1376
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Brick_Clay_New.uexp" 1377
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 1378
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uexp" 1379
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.ubulk" 1380
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 1381
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uexp" 1382
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.ubulk" 1383
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 1384
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uexp" 1385
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.ubulk" 1386
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 1387
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uexp" 1388
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 1389
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uexp" 1390
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 1391
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uexp" 1392
+"D:/MyProject3 4.27/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 1393
+"D:/MyProject3 4.27/Content/StarterContent/Maps/StarterMap_BuiltData.uexp" 1394
+"D:/MyProject3 4.27/Content/StarterContent/Maps/StarterMap_BuiltData.ubulk" 1395
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 1396
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Concrete_Poured_N.uexp" 1397
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Concrete_Poured_N.ubulk" 1398
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 1399
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Concrete_Poured_D.uexp" 1400
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Concrete_Poured_D.ubulk" 1401
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 1402
+"D:/MyProject3 4.27/Content/StarterContent/Materials/M_Concrete_Poured.uexp" 1403
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Lamp_N.uasset" 1404
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Lamp_N.uexp" 1405
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Lamp_N.ubulk" 1406
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Lamp_M.uasset" 1407
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Lamp_M.uexp" 1408
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Lamp_M.ubulk" 1409
+"D:/MyProject3 4.27/Content/StarterContent/Props/Materials/M_Lamp.uasset" 1410
+"D:/MyProject3 4.27/Content/StarterContent/Props/Materials/M_Lamp.uexp" 1411
+"D:/MyProject3 4.27/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 1412
+"D:/MyProject3 4.27/Content/StarterContent/Props/SM_Lamp_Wall.uexp" 1413
+"D:/MyProject3 4.27/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 1414
+"D:/MyProject3 4.27/Content/StarterContent/Blueprints/Blueprint_WallSconce.uexp" 1415
+"D:/MyProject3 4.27/Content/StarterContent/Particles/P_Steam_Lit.uasset" 1416
+"D:/MyProject3 4.27/Content/StarterContent/Particles/P_Steam_Lit.uexp" 1417
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Steam01_Cue.uasset" 1418
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Steam01_Cue.uexp" 1419
+"D:/MyProject3 4.27/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 1420
+"D:/MyProject3 4.27/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uexp" 1421
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 1422
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Fire_Sparks01_Cue.uexp" 1423
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Spark_Core.uasset" 1424
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Spark_Core.uexp" 1425
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Spark_Core.ubulk" 1426
+"D:/MyProject3 4.27/Content/StarterContent/Particles/Materials/M_Spark.uasset" 1427
+"D:/MyProject3 4.27/Content/StarterContent/Particles/Materials/M_Spark.uexp" 1428
+"D:/MyProject3 4.27/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 1429
+"D:/MyProject3 4.27/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uexp" 1430
+"D:/MyProject3 4.27/Content/StarterContent/Particles/P_Sparks.uasset" 1431
+"D:/MyProject3 4.27/Content/StarterContent/Particles/P_Sparks.uexp" 1432
+"D:/MyProject3 4.27/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 1433
+"D:/MyProject3 4.27/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uexp" 1434
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Smoke01_Cue.uasset" 1435
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Smoke01_Cue.uexp" 1436
+"D:/MyProject3 4.27/Content/StarterContent/Particles/P_Smoke.uasset" 1437
+"D:/MyProject3 4.27/Content/StarterContent/Particles/P_Smoke.uexp" 1438
+"D:/MyProject3 4.27/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 1439
+"D:/MyProject3 4.27/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uexp" 1440
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Fire01_Cue.uasset" 1441
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Fire01_Cue.uexp" 1442
+"D:/MyProject3 4.27/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 1443
+"D:/MyProject3 4.27/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uexp" 1444
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 1445
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Fire_Tiled_D.uexp" 1446
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Fire_Tiled_D.ubulk" 1447
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 1448
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Fire_SubUV.uexp" 1449
+"D:/MyProject3 4.27/Content/StarterContent/Textures/T_Fire_SubUV.ubulk" 1450
+"D:/MyProject3 4.27/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 1451
+"D:/MyProject3 4.27/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uexp" 1452
+"D:/MyProject3 4.27/Content/StarterContent/Particles/P_Fire.uasset" 1453
+"D:/MyProject3 4.27/Content/StarterContent/Particles/P_Fire.uexp" 1454
+"D:/MyProject3 4.27/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 1455
+"D:/MyProject3 4.27/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uexp" 1456
+"D:/MyProject3 4.27/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 1457
+"D:/MyProject3 4.27/Content/StarterContent/Props/SM_Lamp_Ceiling.uexp" 1458
+"D:/MyProject3 4.27/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 1459
+"D:/MyProject3 4.27/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uexp" 1460
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 1461
+"D:/MyProject3 4.27/Content/StarterContent/Audio/Starter_Music_Cue.uexp" 1462
+"D:/MyProject3 4.27/Content/StarterContent/Maps/StarterMap.uexp" 1463
+"D:/MyProject3 4.27/Content/StarterContent/Maps/StarterMap.umap" 1464
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 1465
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp" 1466
+"../../../Engine/Content/BasicShapes/Cube.uasset" 1467
+"../../../Engine/Content/BasicShapes/Cube.uexp" 1468
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 1469
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uexp" 1470
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 1471
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uexp" 1472
+"D:/MyProject3 4.27/Content/ThirdPersonBP/Maps/NZMAP_BuiltData.uasset" 1473
+"D:/MyProject3 4.27/Content/ThirdPersonBP/Maps/NZMAP_BuiltData.uexp" 1474
+"D:/MyProject3 4.27/Content/ThirdPersonBP/Maps/NZMAP_BuiltData.ubulk" 1475
+"D:/MyProject3 4.27/Content/ThirdPersonBP/Maps/NZMAP.uexp" 1476
+"D:/MyProject3 4.27/Content/ThirdPersonBP/Maps/NZMAP.ubulk" 1477
+"D:/MyProject3 4.27/Content/ThirdPersonBP/Maps/NZMAP.umap" 1478
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1479
+"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 1480
+"../../../Engine/Content/Maps/Entry.uexp" 1481
+"../../../Engine/Content/Maps/Entry.umap" 1482

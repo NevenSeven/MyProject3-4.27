@@ -1,13 +1,9 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.27",
+	"EngineAssociation": "5.0",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
-		{
-			"Name": "StaticMeshEditorExtension",
-			"Enabled": true
-		},
 		{
 			"Name": "SteamVR",
 			"Enabled": false,
@@ -61,6 +57,19 @@
 		},
 		{
 			"Name": "ApexDestruction",
+			"Enabled": true
+		},
+		{
+			"Name": "Bridge",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
+		},
+		{
+			"Name": "FieldSystemPlugin",
 			"Enabled": true
 		}
 	]

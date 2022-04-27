@@ -60,6 +60,10 @@
 			"Enabled": true
 		},
 		{
+			"Name": "FieldSystemPlugin",
+			"Enabled": true
+		},
+		{
 			"Name": "Bridge",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
@@ -67,10 +71,6 @@
 				"Mac",
 				"Linux"
 			]
-		},
-		{
-			"Name": "FieldSystemPlugin",
-			"Enabled": true
 		}
 	]
 }
